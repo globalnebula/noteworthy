@@ -1,0 +1,4 @@
+pillow
+fpdf
+streamlit
+pdf2image
