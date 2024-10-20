@@ -87,7 +87,7 @@ def footer():
         }
         </style>
         <div class="footer">
-            <p>Made with 💖 by Kunal Achintya Reddy | <a style="color: #f1f1f1; text-decoration: none;", href="https://github.com/kunal" target="_blank">GitHub</a> | <a style="color: #f1f1f1; text-decoration: none;", href="https://linkedin.com/in/kunal" target="_blank">LinkedIn</a></p>
+            <p>Made with 💖 by Kunal Achintya Reddy | <a style="color: #f1f1f1; text-decoration: none;", href="https://github.com/globalnebula/noteworthy" target="_blank">GitHub</a> | <a style="color: #f1f1f1; text-decoration: none;", href="https://linkedin.com/in/kunalachintyareddy" target="_blank">LinkedIn</a></p>
         </div>
         """,
         unsafe_allow_html=True
